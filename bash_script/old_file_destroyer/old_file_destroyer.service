@@ -1,0 +1,8 @@
+[Unit]
+Description=Delete old file in set directory
+After=network.target
+[Service]
+Type=simple
+ExecStart=/etc/study/old_file_destroyer.bash
+[Install]
+WantedBy=multi-user.target
