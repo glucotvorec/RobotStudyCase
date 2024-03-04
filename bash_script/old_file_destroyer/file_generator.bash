@@ -1,5 +1,5 @@
 #!/bin/bash
-#The script uses the dd utility to create fixed-length files.
+#Сценарий использует утилиту dd для создания файлов фиксированной длины.
 filename=empty
 dir_size=0
 directory=$1
