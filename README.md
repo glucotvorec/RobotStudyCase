@@ -1,7 +1,7 @@
-# Robot Study Case
+# Решение заданий по курсу робототехника
 
-This repository was created in purpose to give me hands-on experience with `git`and does not contain useful information for third parties.
+Данный репозиторий создан с целью получения практического опыта работы с 'git'. Он не имеет ценности для третьих лиц.
 
-## Bash script 
+## Bash скрипты
 
-The directory contains scripts for bash, and related files to extend functionality.
+Директория содержит bash скрипты, и сопутствующие конфигурационные файлы.
